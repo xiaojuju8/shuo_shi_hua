@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 import static com.ssh.utils.RedisConstants.SHOP_GEO_KEY;
 
 @SpringBootTest
-class HmDianPingApplicationTests {
+class ShuoShiHuaApplicationTests {
 
     @Resource
     private ShopServiceImpl shopService;
